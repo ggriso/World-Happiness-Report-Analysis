@@ -8,15 +8,15 @@ Performing data preparation, cleaning, EDA, geospatial analysis (JSON shapefile)
 
 The World Happiness Report is an annual publication that explores the factors contributing to human well-being, the happiness ratings of countries and the importance of measuring happiness. Experts use responses from people in more than 140 nations to rank the world’s ‘happiest’ countries. Respondents are asked to rate their lives on a scale from 0 (worst) to 10 (best) using the Cantril Ladder. 
 
-In this analysis, we will explore how different factors contributed to happiness across various countries over the past 5 years (2019-2023). In particular, we are interested in the role played by economic prosperity in determining happiness.
+In this analysis, we want to explore how different factors contributed to happiness across various countries over the past 5 years (2019-2023). In particular, we are interested in the role played by economic prosperity in determining happiness.
 
 ### Data Source
 
 The datasets are part of a collection called [World Happiness Reports 2013 – 2023](https://www.kaggle.com/datasets/joebeachcapital/world-happiness-report-2013-2023?resource=download) on Kaggle. We will analyse the reports from 2019 to 2023. The data is available under the [Community Data License Agreement - Permissive - Version 1.0](https://cdla.dev/permissive-1-0/).
 
-The JSON shapefile we will use for the geospatial analysis is available in the project folder, under the folder "03 Scripts".
+The JSON shapefile we need for the geospatial analysis is available in the project folder, under the folder "03 Scripts".
 
-For the time-series analysis, we will use a different dataset with more data points. You can find it at [Nasdaq Data](https://data.nasdaq.com/databases/ZILLOW).
+For the time-series analysis, we decided to use a different dataset with more data points. You can find it at [Nasdaq Data](https://data.nasdaq.com/databases/ZILLOW).
 
 ### Questions to explore
 
