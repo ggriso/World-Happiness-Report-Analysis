@@ -14,7 +14,7 @@ In this analysis, we want to explore how different factors contributed to happin
 
 The datasets are part of a collection called [World Happiness Reports 2013 – 2023](https://www.kaggle.com/datasets/joebeachcapital/world-happiness-report-2013-2023?resource=download) on Kaggle. We will analyse the reports from 2019 to 2023. The data is available under the [Community Data License Agreement - Permissive - Version 1.0](https://cdla.dev/permissive-1-0/).
 
-The JSON shapefile we need for the geospatial analysis is available in the project folder, under the folder "03 Scripts".
+The [JSON shapefile](https://github.com/ggriso/World-Happiness-Report-Analysis/blob/main/World_Happiness_Analysis/02%20Data/Original%20Data/world-countries.json) we need for the geospatial analysis is available in the project folder, under the folder "02 Data/Original Data".
 
 For the time-series analysis, we decided to use a different dataset with more data points. You can find it at [Nasdaq Data](https://data.nasdaq.com/databases/ZILLOW).
 
